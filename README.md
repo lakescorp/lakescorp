@@ -10,9 +10,13 @@ I develop Android apps and games, available for you to explore on the [Play Stor
 
 I have a keen interest in artificial intelligence. One of my notable projects is the [Image Label Utility Tool](https://github.com/lakescorp/ImageLabelIA) which showcases this passion. I also develop bots, such as the [Ticket-bot-discord](https://github.com/lakescorp/Ticket-bot-discord), a message reactive Discord bot utilizing cogs.
 
-## 💻 Coding
+## 🛠️ Frameworks & Technologies
 
-Programming is more than just a skill for me, it's a passion. Some of the software I develop is shared right here on my GitHub profile.
+Here are some of the frameworks and technologies I've utilized in my projects:
+
+- Unity (for game development)
+- Android Studio
+- Python (for AI, bots, and general programming)
 
 ## 📌 About Me
 
